@@ -1,2 +1,2 @@
 # alura-plus
-Projeto desenvolvido com os curso de HTML e CSS da alura
+Projeto desenvolvido com os cursos de HTML e CSS da alura
